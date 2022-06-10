@@ -15,10 +15,10 @@ class $CLASS$ extends Model implements Transformable
 {
     use TransformableTrait;
 
-    /**
+     /**
      * The attributes that are mass assignable.
      *
-     * @var array
+     * @var array<int, string>
      */
     protected $fillable = $FILLABLE$;
 
