@@ -13,7 +13,7 @@ $USE_VALIDATOR$
  *
  * @package $NAMESPACE$
  */
-class $CLASS$RepositoryEloquent extends BaseRepository implements $CLASS$Repository
+class $CLASS$RepositoryEloquent extends BaseRepository implements I$CLASS$Repository
 {
     /**
      * Specify Model class name
